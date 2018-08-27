@@ -1,0 +1,22 @@
+{
+  "name": "hangmanbonus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crystalngo88/HangmanBonus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crystalngo88/HangmanBonus/issues"
+  },
+  "homepage": "https://github.com/crystalngo88/HangmanBonus#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
